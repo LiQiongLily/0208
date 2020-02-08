@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Lily-PC",
+    "children" : [ {
+      "name" : "8068-MainThread",
+      "children" : [ {
+        "name" : "Test01.test01",
+        "uid" : "3135e541ffff45ae",
+        "parentUid" : "fed6883cdfe7f125c465282d9b16280e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581149250441,
+          "stop" : 1581149250444,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test02",
+        "uid" : "5035906a667f2ea8",
+        "parentUid" : "fed6883cdfe7f125c465282d9b16280e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1581149250445,
+          "stop" : 1581149250480,
+          "duration" : 35
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fed6883cdfe7f125c465282d9b16280e"
+    } ],
+    "uid" : "0ce682ba2efb965a13c74baf205a1412"
+  } ]
+}
